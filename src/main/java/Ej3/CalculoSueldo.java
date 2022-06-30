@@ -1,3 +1,5 @@
+package Ej3;
+
 import javax.swing.*;
 import java.util.Scanner;
 

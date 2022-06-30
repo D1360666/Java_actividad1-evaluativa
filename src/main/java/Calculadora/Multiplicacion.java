@@ -1,3 +1,5 @@
+package Calculadora;
+
 public class Multiplicacion extends Operacion{
 
     double multiplicacion;
